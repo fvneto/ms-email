@@ -1,4 +1,4 @@
-package com.ms.franciscoVicente.msemail;
+package com.franciscovicente.msemail;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
